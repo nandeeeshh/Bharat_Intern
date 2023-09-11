@@ -93,6 +93,7 @@ class _homeState extends State<home> {
                                 color: focus
                                     ? Colors.black
                                     : Colors.grey,
+                                    //hallo wassup
                                 fontSize: value),
                           );
                         },
